@@ -33,7 +33,7 @@ This project provides a basic setup of a microservices architecture using Spring
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/francode-taype/microservices-config.git
+   git clone https://github.com/fran-codev/microservices-config.git
    cd microservices-config
 
     Start each service in this order:
